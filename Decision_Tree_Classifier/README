@@ -1,7 +1,7 @@
 Hi!!
 This Project comprises of code for Decision tree classifier (self-written as well as SK Learns inbuit algorithm).
 The dataset used for the project is IRIS Dataset.
-    About Dataet: 1. The dataset comprises of 4 features : Sepal length , Sepal width , Petal Length , Petal Width
+    About Dataset: 1. The dataset comprises of 4 features : Sepal length , Sepal width , Petal Length , Petal Width
                   2. These features are used as independent features inorder to classify the flowers as Setosa , Virginica and Versicolor
                   3. To work upon this dataset , I have written custom made decision tree classifier of my own.
                   
